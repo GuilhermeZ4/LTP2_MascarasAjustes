@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManipulandoBotoes", "ManipulandoBotoes\ManipulandoBotoes.csproj", "{A2A27787-28C3-484B-886E-C57BC6490AD5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Form2", "WinFormsApp1\Form2.csproj", "{72C1875F-C03D-428A-8753-F186E5F567BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A27787-28C3-484B-886E-C57BC6490AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A27787-28C3-484B-886E-C57BC6490AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A27787-28C3-484B-886E-C57BC6490AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A27787-28C3-484B-886E-C57BC6490AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72C1875F-C03D-428A-8753-F186E5F567BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C1875F-C03D-428A-8753-F186E5F567BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C1875F-C03D-428A-8753-F186E5F567BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C1875F-C03D-428A-8753-F186E5F567BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FECA994A-1383-4083-96E7-92928C372ACF}
+	EndGlobalSection
+EndGlobal
